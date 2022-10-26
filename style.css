@@ -56,5 +56,6 @@ p {
 	color: blue;
 	text-decoration: underline;
 }
-
-1:17:18
+nav li{
+    display: inline;
+}
